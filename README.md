@@ -58,12 +58,14 @@ o Regional performance
 o Identification of high- and low-performing areas 
 
 Expected Outcomes 
+
 The analysis helps understand the factors affecting sales and profitability and highlights patterns 
 in customer purchasing behavior, product performance, discounts, and regional sales. The 
 visualizations make it easier to communicate these findings and support data-driven business 
 analysis. 
 
 Conclusion 
+
 This project demonstrates how Exploratory Data Analysis with Python can be used to transform 
 raw business data into meaningful insights. The Superstore dataset provides an opportunity to 
 apply data cleaning, statistical analysis, visualization, and business-oriented interpretation 
